@@ -1,0 +1,4 @@
+OS   :Windows 10 Home 64bit
+CPU  :Celeron N3050 1.60~2.16GHz 2 core 2 thread
+MEM DDR3 8.0GB
+HDD SSD 250GB
